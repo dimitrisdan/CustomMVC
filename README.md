@@ -5,11 +5,15 @@ This is a  basic Model-View-Controller (MVC) framework written in the PHP progra
 
 where action and id is optional. Working Links
 
-GET  /
-GET  /home
-GET  /about-us
-GET  /contact-us
-POST /contact/create
+`GET  /`
+
+`GET  /home`
+
+`GET  /about-us`
+
+`GET  /contact-us`
+
+`POST /contact/create`
 
 Installation
 ------------
