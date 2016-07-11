@@ -43,17 +43,12 @@ Simply, add a new row in the array of the form
 `"url" => [ "http_verb" , "Controller", "Action" ]`
 
 like the default:
-
-`$routes = [`
-    
-    `"" => [ "get" ,"HomeController", "index" ],`
-    
-    `"home" => [ "get" ,"HomeController", "index" ],`
-    
-    `"contact-us" =>[ "get", "ContactController", "index" ] ,`
-    
-    `"about-us" => [ "get", "AboutController", "index" ] ,`
-    
-    `"contact/create" =>[ "post", "ContactController", "create" ]`
-
-`];`
+```
+$routes = [
+    "" => [ "get" ,"HomeController", "index" ],
+    "home" => [ "get" ,"HomeController", "index" ],
+    "contact-us" =>[ "get", "ContactController", "index" ] ,
+    "about-us" => [ "get", "AboutController", "index" ] ,
+    "contact/create" =>[ "post", "ContactController", "create" ]
+];
+```
