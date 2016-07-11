@@ -20,14 +20,15 @@ Installation
 
 Download or clone the repository to a working Apache web server with PHP and MySQL. 
 
-Run the script cmvc_db.sql to create the database and the tables 
+Run the script `cmvc_db.sql` to create the database and the tables 
 
 Tested versions include Apache 2.4.18 and PHP 5.6
 
 Project Structure
 -----------------
 
-app/    Controllers, Models, Views and Routing.
+app/    
+  Controllers, Models, Views and Routing.
 
 config/ App and DB Configuarion files.
 
