@@ -28,19 +28,19 @@ Project Structure
 -----------------
 
 app/    
-  Controllers, Models, Views and Routing.
+&nbsp;&nbsp;&nbsp;&nbsp;Controllers, Models, Views and Routing.
 
 config/ 
-  App and DB Configuarion files.
+&nbsp;&nbsp;&nbsp;&nbsp;App and DB Configuarion files.
 
 files/  
-  The files from the form are uploaded here. 
+&nbsp;&nbsp;&nbsp;&nbsp;The files from the form are uploaded here. 
 
 lib/    
-  Libraries.
+&nbsp;&nbsp;&nbsp;&nbsp;Libraries.
 
 public/ 
-  Public folder. Include all css and js files in this directory.
+&nbsp;&nbsp;&nbsp;&nbsp;Public folder. Include all css and js files in this directory.
   
 Routing
 -------
